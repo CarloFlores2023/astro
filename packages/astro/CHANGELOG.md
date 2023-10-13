@@ -1,5 +1,11 @@
 # astro
 
+## 3.3.1
+
+### Patch Changes
+
+- [#8817](https://github.com/withastro/astro/pull/8817) [`f8de1983b`](https://github.com/withastro/astro/commit/f8de1983bde3ecfed3ab61abf0aa9f967b0d86ce) Thanks [@bluwy](https://github.com/bluwy)! - Fix error overlay syntax highlighting
+
 ## 3.3.0
 
 ### Minor Changes
